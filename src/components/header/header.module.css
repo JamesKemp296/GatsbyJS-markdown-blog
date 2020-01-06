@@ -1,0 +1,9 @@
+#headerTitle {
+  font-size: 3rem;
+}
+
+.headerLink {
+  box-shadow: none;
+  text-decoration: none;
+  color: inherit;
+}

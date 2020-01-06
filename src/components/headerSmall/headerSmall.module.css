@@ -1,0 +1,10 @@
+#headerTitle {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 0;
+}
+
+.headerLink {
+  box-shadow: none;
+  text-decoration: none;
+  color: inherit;
+}
