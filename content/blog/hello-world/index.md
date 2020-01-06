@@ -20,3 +20,18 @@ Oh, and here's a great quote from this Wikipedia on
 > firm-textured, round yolk that is bright orange-red in color.
 
 ![Chinese Salty Egg](./salty_egg.jpg)
+
+```javascript
+const pall = str => {
+  if (!str || str.length === 0 || /^\s*$/.test(str)) return "not a pally"
+  let f = str.length - 1
+  for (i = 0; i <= str.length / 2; i++) {
+    if (str[f] !== str[i]) return "not a pally"
+    f = f - 1
+  }
+  return "is a pally"
+}
+
+const mysrt = "qwerttrewq"
+console.log(pall(mysrt))
+```
