@@ -6,7 +6,7 @@ description: The first post of the blog. I'm so excited to be learning gatsby an
 
 Hello world. My name is James Kemp and I'm a full stack developer from Miami, FL. I graduated from [Wyncode Academy](https://wyncode.co/) last December. I went from 0 to hero in HTML, CSS, JavaScript, ReactJS, Ruby on Rails, Postgres and a plethora of other technologies.
 
-![Wyncode Graduation](./group.jpg)
+![Wyncode Graduation](./wyngrad.jpg)
 
 ## So much to learn and so excitement to learn!
 
